@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: black;
+    height:90px;
+    color: aliceblue;
+}
+.head1{
+    padding: 40px;
+    text-align: center;
+    font-size: 50px;
+}
+.para1{
+    font-size:100px;
+    padding: 70px;
+    margin-left: 25px;
+}
+.im2{
+    width: auto;
+    height: 650px;
+}
+.ingredients{
+    padding: 56px;
+    justify-content: center;
+    border-color: black;
+    margin: 50px;
+
+}
